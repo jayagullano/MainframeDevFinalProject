@@ -1,0 +1,59 @@
+        Group 7, Final Project               200415               10302650
+                                         ERROR REPORT
+TRANSACTION     TRANSACTION     PAYMENT     STORE     INVOICE           SKU                              ERROR
+   CODE           AMOUNT          TYPE      NUMBER     NUMBER           CODE                            MESSAGE
+     S            0002000          CA         01      XA-600005                         Invoice Number XX can only be A, B, C, D, or E.
+     S            0014999          CR         01      AA-700006     247R20EHF02EF8E     Invoice Number XX cannot have two same letters.
+     S            0001000          CA         01      EB-900008     SDFSKJ84MS09123     Invoice Number must be >100000 and <900000.
+     S            0000999          CR         01      EB-1500A3     WI8HRW8H43FJSHF     Invoice Number must be in format XX-000000.
+     S            0001000          CA         01      AA-240108     SDFSKJ84MS09123     Invoice Number XX cannot have two same letters.
+     S            0012999          DB         01      DZ-250109     247R20EHF02EF8E     Invoice Number XX can only be A, B, C, D, or E.
+     R            0002499          CR         02      EB-310212                         SKU Code cannot be empty.
+     R            0002000          CA         02      BB-320015     SDFSKJ84MS09123     Invoice Number XX cannot have two same letters.
+     S            000100X          CW         02      BA-350001     AADFSKJ84MS0913     Transaction Amount must be numeric.
+     S            0008999          CR         02      BC-0S0030     WI8HRW8H43FJSHF     Invoice Number must be in format XX-000000.
+     S            0001000          CA         02      BB-460031     SDFSKJ84MS09123     Invoice Number XX cannot have two same letters.
+     X            000099X          CR         02      CA-480033     WI8HRW8H43FJSHF     Transaction Code must be 'S', 'R' or 'L'.
+     R            0012499          CR         02      CD-500122                         SKU Code cannot be empty.
+     X            0014999          CR         02      DA-520036     247R20EHF02EF8E     Transaction Code must be 'S', 'R' or 'L'.
+     S            0002999          DW         02      DB-530037     WI8HRW8H43FJSH2     Payment Type must be 'CA', 'CR', or 'DB'.
+     R            0002499          CR         02      DE-550212                         SKU Code cannot be empty.
+     S            0002999          DW         02      EC-580217     WI8HRW8H43FJSHF     Payment Type must be 'CA', 'CR', or 'DB'.
+     X            0012999          DB         02      AB-600219     247R20EHF02EF8E     Transaction Code must be 'S', 'R' or 'L'.
+     S            0002000          CA         02      ET-640225     SDFSKJ84MS09123     Invoice Number XX can only be A, B, C, D, or E.
+     S            0014999          CR         02      EE-650226     247R20EHF02EF8E     Invoice Number XX cannot have two same letters.
+     L            0014999          DB         12      CC-730234     LFW8H88W84HFW4F     Invoice Number XX cannot have two same letters.
+     R            0002999          CW         02      CE-750335     SDFSKJ84MS09123     Payment Type must be 'CA', 'CR', or 'DB'.
+     C            0014999          CR         02      DA-760336     247R20EHF02EF8E     Transaction Code must be 'S', 'R' or 'L'.
+     R            0002499          CR         13      EC-810402     FLW8H4FW8H4FWF4     Store Number must be 01, 02, 03, 04, 05, or 12.
+     S            0001000          CA         13      AD-850408     SDFSKJ84MS09123     Store Number must be 01, 02, 03, 04, 05, or 12.
+     S            0008999          CR         03      AA-870410     WI8HRW8H43FJSHF     Invoice Number XX cannot have two same letters.
+     S            0000999          CR         03      EA-900413     WI8HRW8H43FJSHF     Invoice Number must be >100000 and <900000.
+     L            0001000          CA         03      GB-910401     SDFSKJ84MS09123     Invoice Number XX can only be A, B, C, D, or E.
+     S            0012999          DB         03      CC-920402     247R20EHF02EF8E     Invoice Number XX cannot have two same letters.
+     S            0008999          CR         03      ED-930403     WI8HRW8H43FJSHF     Invoice Number must be >100000 and <900000.
+     L            0004999          DB         03      AB-940404     LFW8H88W84HFW4F     Invoice Number must be >100000 and <900000.
+     R            0002499          CR         03      AC-950402     FLW8H4FW8H4FWF4     Invoice Number must be >100000 and <900000.
+     S            0002000          CA         04      AD-960405     SDFSKJ84MS09123     Invoice Number must be >100000 and <900000.
+     S            001X999          CR         17      AE-970406     247R20EHF02EF8E     Transaction Amount must be numeric.
+     R            0002999          DB         04      BA-98S407     WI8HRW8H43FJSHF     Invoice Number must be in format XX-000000.
+     S            0001000          CA         04      CC-99S508     SDFSKJ84MS09123     Invoice Number must be in format XX-000000.
+     R            0002499          CR         04      DB-106512                         SKU Code cannot be empty.
+     S            007100X          CW         05      EC-110501     AADFSKJ84MS0913     Transaction Amount must be numeric.
+     L            0004999          DB         05      DD-113524     LFW8H88W84HFW4F     Invoice Number XX cannot have two same letters.
+     S            000099X          CR         12      DC-123633     WI8HRW8H43FJSHF     Transaction Amount must be numeric.
+     R            0012499          CX         14      EE-125722                         Payment Type must be 'CA', 'CR', or 'DB'.
+     X            0014999          CR         12      EB-127636     247R20EHF02EF8E     Transaction Code must be 'S', 'R' or 'L'.
+     S            0002999          DW         12      EA-128637     WI8HRW8H43FJSH2     Payment Type must be 'CA', 'CR', or 'DB'.
+     R            0002400          CA         12      AD-131S15     SDFSKJ84MS09123     Invoice Number must be in format XX-000000.
+     S            0002999          DW         01      BA-133617     WI8HRW8H43FJSHF     Payment Type must be 'CA', 'CR', or 'DB'.
+     W            0012999          DB         03      BD-135619     247R20EHF02EF8E     Transaction Code must be 'S', 'R' or 'L'.
+     S            0008999          CR         04      BB-136623     WI8HRW8H43FJSHF     Invoice Number XX cannot have two same letters.
+     S            0012999          DB         05      DD-143629     247R20EHF02EF8E     Invoice Number XX cannot have two same letters.
+     R            0000499          CR         05      AC-1496N2     F4WO8JFO8W4JFW8     Invoice Number must be in format XX-000000.
+     R            0002999          CW         12      AD-150635     SDFSKJ84MS09123     Payment Type must be 'CA', 'CR', or 'DB'.
+     X            0014999          CR         71      AE-151636     247R20EHF02EF8E     Transaction Code must be 'S', 'R' or 'L'.
+     S            0002999          DB         08      AB-152637     WI8HRW8H43FJSH2     Store Number must be 01, 02, 03, 04, 05, or 12.
+
+NUMBER OF RECORDS: 152VALID RECORDS: 100
+INVALID RECORDS:  52

@@ -1,0 +1,130 @@
+
+
+              Group 7, Final Project Program 3 Report
+
+
+                                                                                 Page 01
+
+Trans Code   Trans Amount   Payment Type   Store #   Invoice #          SKU Code   Tax $
+         S     $    10.00             CA         1   AB-100001   SDFSKJ84MS09123    1.30
+         S     $   129.99             DB         1   BC-200002   247R20EHF02EF8E   16.90
+         S     $    89.99             CR         1   DE-300003   WI8HRW8H43FJSHF   11.70
+         L     $    49.99             DB         1   EA-400004   LFW8H88W84HFW4F    6.50
+         S     $    29.99             DB         1   CE-800007   WI8HRW8H43FJSHF    3.90
+         S     $   129.99             DB         1   BD-110009   247R20EHF02EF8E   16.90
+         S     $    89.99             CR         1   DA-120010   WI8HRW8H43FJSHF   11.70
+         S     $    10.00             CA         1   AC-130011   SDFSKJ84MS09123    1.30
+         L     $ 1,129.99             DB         1   CE-140012   247R20EHF02EF8E  146.90
+         L     $    10.00             CA         1   CE-160101   SDFSKJ84MS09123    1.30
+         S     $   129.99             DB         1   AB-170102   247R20EHF02EF8E   16.90
+         S     $    89.99             CR         1   CD-180103   WI8HRW8H43FJSHF   11.70
+         L     $    49.99             DB         1   EA-190104   LFW8H88W84HFW4F    6.50
+         S     $    20.00             CA         1   DE-210105   SDFSKJ84MS09123    2.60
+         S     $   149.99             CR         1   AD-220106   247R20EHF02EF8E   19.50
+         S     $    10.00             CA         1   BC-270111   SDFSKJ84MS09123    1.30
+         S     $ 1,129.99             DB         1   DE-280112   247R20EHF02EF8E  146.90
+         S     $     9.99             CR         1   AB-290113   WI8HRW8H43FJSHF    1.30
+         L     $    49.99             DB         2   CD-300014   LFW8H88W84HFW4F    6.50
+         S     $   149.99             CR         2   AC-330016   247R20EHF02EF8E   19.50
+         S     $    29.99             DB         2   AE-340017   WI8HRW8H43FJSHF    3.90
+
+
+                                                                                 Page 02
+
+Trans Code   Trans Amount   Payment Type   Store #   Invoice #          SKU Code   Tax $
+         S     $   129.99             DB         2   CB-360019   247R20EHF02EF8E   16.90
+         S     $    89.99             CR         2   DC-370023   WI8HRW8H43FJSHF   11.70
+         L     $    49.99             DB         2   ED-380024   LFW8H88W84HFW4F    6.50
+         S     $    20.00             CA         2   AB-400025   SDFSKJ84MS09123    2.60
+         S     $   149.99             CR         2   AC-410026   247R20EHF02EF8E   19.50
+         S     $    29.99             DB         2   AD-420027   WI8HRW8H43FJSHF    3.90
+         S     $    10.00             CA         2   AE-430028   SDFSKJ84MS09123    1.30
+         S     $   129.99             DB         2   BA-440029   247R20EHF02EF8E   16.90
+         S     $ 1,129.99             DB         2   BE-470032   247R20EHF02EF8E  146.90
+         L     $   149.99             DB         2   CB-490034   LFW8H88W84HFW4F   19.50
+         L     $    49.99             DB         2   DC-540214   LFW8H88W84HFW4F    6.50
+         S     $   149.99             CR         2   EB-570216   247R20EHF02EF8E   19.50
+         S     $    10.00             CA         2   ED-590201   AADFSKJ84MS0913    1.30
+         S     $    89.99             CR         2   AC-610223   WI8HRW8H43FJSHF   11.70
+         L     $    49.99             DB         2   AD-620224   LFW8H88W84HFW4F    6.50
+         S     $    29.99             DB         2   EC-660227   WI8HRW8H43FJSHF    3.90
+         S     $    10.00             CA         2   ED-670228   SDFSKJ84MS09123    1.30
+         S     $   129.99             DB         2   BA-680229   247R20EHF02EF8E   16.90
+         S     $    89.99             CR         2   BD-690230   WI8HRW8H43FJSHF   11.70
+         S     $    10.00             CA         2   BE-700231   SDFSKJ84MS09123    1.30
+         S     $ 1,129.99             DB         2   BC-710232   247R20EHF02EF8E  146.90
+
+
+                                                                                 Page 03
+
+Trans Code   Trans Amount   Payment Type   Store #   Invoice #          SKU Code   Tax $
+         S     $     9.99             CR         2   CA-720233   WI8HRW8H43FJSHF    1.30
+         S     $    29.99             DB         2   DB-760337   WI8HRW8H43FJSH2    3.90
+         S     $    10.00             CA         3   DC-770401   SDFSKJ84MS09123    1.30
+         S     $   129.99             DB         3   DE-780402   247R20EHF02EF8E   16.90
+         S     $    89.99             CR         3   EA-790403   WI8HRW8H43FJSHF   11.70
+         L     $    49.99             DB         3   EB-800404   LFW8H88W84HFW4F    6.50
+         S     $    20.00             CA         3   ED-820405   SDFSKJ84MS09123    2.60
+         S     $   149.99             CR         3   AB-830406   247R20EHF02EF8E   19.50
+         S     $    29.99             DB         3   AC-840407   WI8HRW8H43FJSHF    3.90
+         S     $   129.99             DB         3   AE-860409   247R20EHF02EF8E   16.90
+         S     $    10.00             CA         3   BD-880411   SDFSKJ84MS09123    1.30
+         L     $ 1,129.99             DB         3   DE-890412   247R20EHF02EF8E  146.90
+         S     $   129.99             DB         4   BD-100509   247R20EHF02EF8E   16.90
+         S     $    10.00             CA         4   CA-102511   SDFSKJ84MS09123    1.30
+         S     $ 1,129.99             DB         4   CD-103512   247R20EHF02EF8E  146.90
+         S     $     9.99             CR         4   CE-104513   WI8HRW8H43FJSHF    1.30
+         L     $    49.99             DB         4   DA-105514   LFW8H88W84HFW4F    6.50
+         S     $   149.99             CR         5   DE-108516   247R20EHF02EF8E   19.50
+         S     $    29.99             DB         5   ED-109517   WI8HRW8H43FJSHF    3.90
+         S     $   729.99             DB         5   EB-111519   247R20EHF02EF8E   94.90
+         S     $    89.99             CR         5   EA-112523   WI8HRW8H43FJSHF   11.70
+
+
+                                                                                 Page 04
+
+Trans Code   Trans Amount   Payment Type   Store #   Invoice #          SKU Code   Tax $
+         S     $    20.00             CA         5   DB-115525   SDFSKJ84MS09123    2.60
+         S     $   149.99             CR         5   DA-116526   247R20EHF02EF8E   19.50
+         S     $    29.99             DB         5   CA-117527   WI8HRW8H43FJSHF    3.90
+         S     $    10.00             CA         5   CB-118528   SDFSKJ84MS09123    1.30
+         S     $   129.49             CA         5   CD-119529   247R20EHF02EF8E   16.83
+         S     $    89.99             CR        12   CE-120530   WI8HRW8H43FJSHF   11.70
+         S     $ 8,010.00             CA        12   DA-121631   SDFSKJ84MS09123   41.30
+         S     $ 1,129.99             DB        12   DB-122632   247R20EHF02EF8E  146.90
+         L     $   149.99             DB        12   DE-124634   LFW8H88W84HFW4F   19.50
+         L     $    49.99             DB        12   AB-129614   LFW8H88W84HFW4F    6.50
+         S     $   149.99             CR        12   AE-132616   247R20EHF02EF8E   19.50
+         S     $    10.00             CA         2   BC-134601   AADFSKJ84MS0913    1.30
+         L     $    49.99             DB         5   CA-137624   LFW8H88W84HFW4F    6.50
+         S     $    20.00             CA         1   CD-139625   SDFSKJ84MS09123    2.60
+         S     $   149.99             CR         2   CE-140626   247R20EHF02EF8E   19.50
+         S     $    29.99             DB         3   DA-141627   WI8HRW8H43FJSHF    3.90
+         S     $    10.00             CA         4   DB-142628   SDFSKJ84MS09123    1.30
+         S     $    89.99             CR        12   DE-144630   WI8HRW8H43FJSHF   11.70
+         S     $    10.00             CA         1   EA-145631   SDFSKJ84MS09123    1.30
+         S     $ 1,129.99             DB         2   EB-146632   247R20EHF02EF8E  146.90
+         S     $     9.99             CR         3   EC-147633   WI8HRW8H43FJSHF    1.30
+
+
+                                                                                 Page 05
+
+Trans Code   Trans Amount   Payment Type   Store #   Invoice #          SKU Code   Tax $
+         L     $   149.99             DB         4   ED-148634   LFW8H88W84HFW4F   19.50
+
+# Of Total Sales and Layaways:         Sales Amount Total
+                    85                 $ 22,838.86
+
+# OF SALES   SALES TOTAL   # OF LAYAWAYS   LAYAWAYS TOTAL
+     69      $ 19,619.01         16        $  3,219.85
+
+% Per Type:      Cash     Credit     Debit
+                 % 26     % 27       % 47
+
+Sale Totals:  STORE 01     STORE 02     STORE 03     STORE 04     STORE 05     STORE 12
+           $  3,299.87  $  5,199.77  $  1,789.91  $  1,489.95  $  1,389.42  $  9,669.94
+
+Highest Store Totals:   Lowest Store Totals:
+            Store: 12              Store: 05
+
+Total Taxes Owed: $ 2,969.13
