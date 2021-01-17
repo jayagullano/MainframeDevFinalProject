@@ -5,19 +5,24 @@ This project involved the use of components frequently used during the course. I
 
 Report from Program 1:
 
- 
- 
-
-
-
+<br>
+<img height = "500" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%201.PNG"/>
+<br>
 
 Report from Program 2:
 
- 
+<br>
+<img height = "500" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%202.PNG"/>
+<br>
 
 Report from Program 3:
 
- 
- 
+<br>
+<img height = "500" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%203.PNG"/>
+<br> 
 
 Report from Program4:
+
+<br>
+<img height = "500" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%204.PNG"/>
+<br>
