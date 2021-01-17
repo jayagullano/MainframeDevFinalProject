@@ -12,7 +12,7 @@ Report from Program 1:
 Report from Program 2:
 
 <br>
-<img height = "500" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%202.PNG"/>
+<img height = "300" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%202.PNG"/>
 <br>
 
 Report from Program 3:
@@ -24,5 +24,5 @@ Report from Program 3:
 Report from Program4:
 
 <br>
-<img height = "500" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%204.PNG"/>
+<img height = "400" src = "https://github.com/jayagullano/MainframeDevFinalProject/blob/main/Report%20Images/Report%20Image%204.PNG"/>
 <br>
